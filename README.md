@@ -7,4 +7,4 @@ This Python program calculates a pitcher's game score based on the users-provide
 - Simple and beginner friendly
 
 ## Pitcher Game Score App
-Check out the app here --> [Pitcher Game Score App] https://fantastic-train-pjp9xxp669gv26vj7-8501.app.github.dev
+Check out the app here --> [Pitcher Game Score App] https://pitcher-game-score-wxak9lnyfyglmf6slftt9a.streamlit.app
